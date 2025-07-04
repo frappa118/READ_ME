@@ -39,17 +39,3 @@
 🌱 Attualmente sto ampliando le mie competenze su **reti neurali**, **AI generativa** e **modelli predittivi**
 
 ---
-
-## 📊 GitHub Stats
-
-![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescomoretti&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescomoretti&layout=compact)
-
----
-
-🧠 *"Il miglior modo per imparare è costruire."*  
-Grazie per aver visitato il mio profilo!
-
-
-
